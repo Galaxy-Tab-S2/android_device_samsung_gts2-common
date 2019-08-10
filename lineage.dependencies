@@ -8,12 +8,28 @@
         "target_path": "hardware/samsung_slsi-cm/exynos"
     },
     {
+        "repository": "Exynos5433/android_frameworks_av",
+        "target_path": "frameworks/av"
+    },
+    {
+        "repository": "Exynos5433/android_hardware_broadcom_wlan",
+        "target_path": "hardware/broadcom/wlan"
+    },
+    {
+        "repository": "Exynos5433/android_hardware_samsung_slsi-cm_exynos",
+        "target_path": "hardware/samsung_slsi-cm/exynos"
+    },
+    {
         "repository": "android_hardware_samsung_slsi-cm_exynos5",
         "target_path": "hardware/samsung_slsi-cm/exynos5"
     },
     {
-        "repository": "android_hardware_samsung_slsi-cm_exynos5433",
+        "repository": "Exynos5433/android_hardware_samsung_slsi-cm_exynos5433",
         "target_path": "hardware/samsung_slsi-cm/exynos5433"
+    },
+    {
+        "repository": "Exynos5433/android_system_core-cm_exynos5433",
+        "target_path": "system/core"
     },
     {
         "repository": "android_hardware_samsung_slsi-cm_openmax",
